@@ -1,0 +1,8 @@
+                    PROJECT EXPLANATION
+
+- I developed a project using Python for the frontend and SQL for the backend.
+- My system creates a personalized QR code for each user, whether they are a student or an employee. 
+- This QR code is uniquely generated based on their specific ID (student or employee ID).
+- I designed and implemented a QR code scanner capable of reading the details encoded within these QR codes.
+- Once a QR code is scanned, the system verifies the extracted details by matching them against the SQL database I created.
+- If the scanned QR code's information matches an entry in the database, the system confirms the presence of the data and validates it as existing within the database.
